@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "__config": "c",
+        "__nullptr": "c"
+    }
+}
